@@ -1,1 +1,1 @@
-# landing-apge
+# landing-page
